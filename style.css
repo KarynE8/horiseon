@@ -1,0 +1,10 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: rgb(55, 55, 156);
+  }
+
+  /* apply styles to <header> */
+header {
+    padding: 20px 35px;
+    background-color: #39a6b2;
+  }
